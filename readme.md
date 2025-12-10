@@ -1,5 +1,5 @@
 #Git Course
 This is a Complete it course
 
-This is from bug branch
+This is main branch
  
