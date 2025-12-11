@@ -1,1 +1,4 @@
-console.log("HII! this is Pavi");
+console.log("HII! this is Lakshmi");
+for(var i=0; i<3;i++){
+    console.log("Lakshmi")
+}
